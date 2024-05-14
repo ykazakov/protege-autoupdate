@@ -39,10 +39,10 @@ https://raw.githubusercontent.com/owlcollab/protege-obo-plugin/master/update.pro
 //https://raw.githubusercontent.com/lukasged/oops-plugin/master/update.properties
 
 // OWL2Query
-http://krizik.felk.cvut.cz/km/owl2query/update.properties
+//http://krizik.felk.cvut.cz/km/owl2query/update.properties
 
 // OWLDiff
-http://krizik.felk.cvut.cz/km/owldiff/protege-update.properties
+//http://krizik.felk.cvut.cz/km/owldiff/protege-update.properties
 
 // OWLDoc
 http://smi-protege.stanford.edu/repos/protege/protege4/plugins/org.coode.owldoc/trunk/etc/update.properties
