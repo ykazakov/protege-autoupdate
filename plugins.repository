@@ -50,6 +50,9 @@ http://smi-protege.stanford.edu/repos/protege/protege4/plugins/org.coode.owldoc/
 // Pellet
 https://raw.githubusercontent.com/Complexible/pellet/master/protege/plugin/plugins.repository
 
+// Protege Justification Explanation
+https://raw.githubusercontent.com/liveontologies/protege-justification-explanation/release/p5.update.properties
+
 // Sadi Plugin
 http://sadi.googlecode.com/svn/trunk/sadi.protege/update.properties
 
